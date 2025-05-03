@@ -1,5 +1,7 @@
 # 🧠 Trabalho 2 – Computação Inspirada pela Natureza (2024)
 
+![banner](./banner.png)
+
 Este repositório contém a implementação e análise dos experimentos do Trabalho 2 da disciplina de **Computação Inspirada pela Natureza**, com foco em **redes neurais artificiais** aplicadas a problemas clássicos de classificação.
 
 ## 📚 Descrição Geral
@@ -61,10 +63,6 @@ O projeto demonstrou que modelos simples como o Perceptron podem ser eficientes 
 
 ## ✍️ Autor
 
-**Vinicius de Souza Santos**  
-Estudante de Engenharia da Computação  
-IFSP – Instituto Federal de São Paulo  
-2024–2025
 
 ---
 
