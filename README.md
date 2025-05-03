@@ -63,6 +63,9 @@ O projeto demonstrou que modelos simples como o Perceptron podem ser eficientes 
 
 ## ✍️ Autor
 
+Vinicius de Souza Santos  
+📧 vinicius-souza.santos@unesp.br  
+📍 UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho"
 
 ---
 
