@@ -71,4 +71,4 @@ Vinicius de Souza Santos
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](LICENSE.md).
